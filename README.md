@@ -7,4 +7,9 @@ Also, sorry that the file is essentially madness right now. Finals pandemonium s
 
 The fragile beginning steps of such an API that can do the whole society process, which I am calling "WiseWorld" (after WestWorld) is also uploaded, though it doesn't fully work yet (I had previously done everything manually), so approach with absolute caution. 
 
+In general, if anything isn't working contact the author at franc514@uw.edu. 
 
+I am also planning on having a demo up soon at: 
+cuddlefishproject.com
+
+So, if you're interested give that a try as well, it may or may not be yet up. If it is, it should be loaded with the "tao" model, and is designed to be like a chatbot you can interact with. However, it will have no memory, like the models displayed in the paper. 
